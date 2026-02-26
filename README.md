@@ -122,7 +122,7 @@ python -m pytest --browser chromium --browser firefox -n 2
 ## 📎 Author
 
 Ayush Kumar  
-Associate Engineer - TCL PVT> LTD
+Associate Engineer - TCL PVT. LTD.
 Full Stack Developer | Automation Enthusiast
 
 ---
