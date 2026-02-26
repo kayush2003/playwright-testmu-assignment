@@ -123,7 +123,7 @@ python -m pytest --browser chromium --browser firefox -n 2
 
 Ayush Kumar  
 Associate Engineer - TCL PVT. LTD.
-Full Stack Developer | Automation Enthusiast
+Testing | Automation Enthusiast
 
 ---
 
